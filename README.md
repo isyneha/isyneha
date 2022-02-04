@@ -25,13 +25,15 @@
    - [Twitter](https://twitter.com/isyneha).
   -->
  <br>
- <a href="https://twitter.com/isyneha" > Twitter </a>|
- <a href="www.linkedin.com/in/sneha-agarwal-217a55200"> Linkedin </a>
+<a href="www.linkedin.com/in/sneha-agarwal-217a55200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:sneha3agarwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://twitter.com/isyneha"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isyneha&color=red" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight" alt="Sneha Agarwal GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?isyneh&theme=toktonight" width="48%" alt="Github Streaks">
 
 <!-- 
 ![Sneha Agarwal GitHub stats](https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight)
