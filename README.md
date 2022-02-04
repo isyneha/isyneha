@@ -33,8 +33,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isyneha&color=red" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight" alt="Sneha Agarwal GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight" alt="Top Languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?isyneh&theme=toktonight" width="48%" alt="Github Streaks">
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=isyneha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
 <!-- 
 ![Sneha Agarwal GitHub stats](https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight)
