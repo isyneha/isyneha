@@ -31,8 +31,9 @@
 <a href="https://twitter.com/isyneha"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight" alt="Sneha Agarwal GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight" alt="Top Languages">
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=isyneha&color=red" /> </p> -->
+<img src="https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight" alt="Sneha Agarwal GitHub stats"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight" alt="Top Languages"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=isyneha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
 <!-- 
 ![Sneha Agarwal GitHub stats](https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight)
