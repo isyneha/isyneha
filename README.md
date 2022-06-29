@@ -30,6 +30,7 @@
 <a href="mailto:sneha3agarwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://twitter.com/isyneha"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href= "https://www.instagram.com/synehahaha/"><img src="https://img.shields.io/badge/Instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+< a href="https://medium.com/@sneha3agarwal"><img src="https://img.shields.io/badge/Medium-66cdaa?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </p>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=isyneha&color=red" /> </p> -->
