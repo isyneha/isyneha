@@ -7,7 +7,8 @@
     I'm a  <b>Sophomore </b> from <b>Harcourt Butler Technical University.</b>
    <br> Interested in <b>Web Development and Competitive Coding</b>💞️
   <br> Currently Learning <b>Front-End Web Development and Java</b>🌱
-  <br> Looking to contribute in <b>Open Source</b>
+  <br> Looking forward to contribute in <b>Open Source</b>
+  <br> Looking out for opportunities to expand my existing skillset.
   </p>
 
 <p align="center">  
