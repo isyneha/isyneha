@@ -43,4 +43,7 @@
 ![Sneha Agarwal GitHub stats](https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight)
 ![Sneha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isyneha) 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=isyneha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 -->
