@@ -38,12 +38,13 @@
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=isyneha&color=red" /> </p> -->
 <img src="https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight" alt="Sneha Agarwal GitHub stats"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight" alt="Top Languages"><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=isyneha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=isyneha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak"><br>
+<img src="https://github-profile-trophy.vercel.app/?username=isyneha&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt = "Github Trophies">
 <!-- 
 ![Sneha Agarwal GitHub stats](https://github-readme-stats.vercel.app/api?username=isyneha&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isyneha&layout=compact&theme=tokyonight)
 ![Sneha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isyneha) 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=isyneha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 -->
